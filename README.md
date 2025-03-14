@@ -12,7 +12,10 @@ I'm a Software Developer passionate about crafting user-friendly applications wi
   
 ## 🛠️ Top Projects
 - **[Crypto Tracker](https://crypto-tracker-one-steel.vercel.app/)**  
-  A real-time cryptocurrency tracking app built with JavaScript and deployed on Vercel. *(Add more details like tech stack once expanded.)*
+ *  Real-time cryptocurrency tracking using JavaScript.
+ *  Data fetched from live APIs for up-to-date market prices.
+ *  Interactive charts & graphs for better market insights.
+
 
 ## 🚀 About Me
 - 🔭 **Currently Working On**: A full-stack app with React and Node.js.
