@@ -24,5 +24,5 @@ I'm a Software Developer passionate about crafting user-friendly applications wi
 - 🤔 **Looking for Help With**: Optimizing algorithms and backend deployment.
 - 💬 **Ask Me About**: JavaScript, Java, DSA, or my Crypto Tracker project!
 - 📫 **How to Reach Me**: [LinkedIn](https://www.linkedin.com/in/rohit-rawat-developer/) | [Email](mailto:rohanrwt9278@gmail.com).
-- ⚡ **Fun Fact**: I once  (mentally, of course)!
+- ⚡ Fun Fact: I write stories on my laptop whenever I have free time!
 
